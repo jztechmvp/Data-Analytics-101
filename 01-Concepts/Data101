@@ -1,4 +1,4 @@
-#Data# 
+#Data 101# 
 	What is Data?
 	Why Data is Important?
 	Two Main Types of Data?
@@ -11,16 +11,33 @@
 	What are the 6 Data Life Cycle?
 		Plan, Capture, Manage, Analyze, Archive, Detroy
 
+#Statistic 101#
+	1. Introduction to Statistics
+		What is Statistics?
+		Why Statistic is Important to Data Analytics?
+	  		-Understand Characteristics(patterns&distributions), Organize Information, Summarize via Metrics, Support Evidence-Based Decisions:
+	2. Descriptive & Inferential Statistics
+		Descriptive Statistics - focuses entirely on organizing, summarizing, and presenting the specific data collected. Example: Calculating monthly average sales across active
+store branches.
+		Inferential Statistics - uses information drawn from a smaller sample to formulate estimates about a whole population. Example: Surveying 100 buyers to infer overall customer
+satisfaction.
+	3. Fundamental Statistical Concepts
+		What?: Essential definitions and building blocks of data organization.
+		Data(1 data/value), Data Sets(multi-data), Populations(fix total n#) and Sample(fraction value to population)
+		Variables(one column) vs. Observations(one row)
+	4. Types of Data
+		Qualitative, Quantitative, Discrete, and Continuous Data
+	5. Basic Statistical Functions
+		Measures of Central Tendency(3)
+			Mean (Arithmetic Average) - AVERAGE(B2:B6)
+			Median (Middle Value/Position) - MEDIAN(B2:B6)
+			Mode & Multimodal Data - MODE(B2:B6)
+		Measures of Dispersion(4)
+			Range = MAX(B2:B6)-MIN(B2:B6)
+			Variance & Standard Deviation - common risk evaluation measures.
+				Variance - (VAR.S(B2:B11))
+				Standard Deviation - (STDEV.S(B2:B11)) 
+			Coefficient of Variation (CV) - (CV = SD/Mean)
 
 
-Data Analytics Framework?
-  Identify problem
-  Define Success
-  Collect & Prepare the Data
-  Analyze and Profile the Data
-  Communicate Findings 
-  Advocate Action
 
-Important of Data Analytics framework?
-  - To transform data into insight and action, you need to think like an analyst. 
-  - Analytical thinking means identifying the problem, setting clear expectations, collecting and analyzing the information you need, and leveraging insights and findings to help influence decisions.
