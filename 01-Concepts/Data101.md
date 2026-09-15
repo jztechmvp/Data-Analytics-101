@@ -1,4 +1,4 @@
-*Data 
+#Data# 
 	What is Data?
 	Why Data is Important?
 	Two Main Types of Data?
