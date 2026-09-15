@@ -1,15 +1,34 @@
 What is Data Analytics 
 	-1. The science and practice of using data to answer questions, solved problem, improve performance and support informed decision-making.
 	-2. It is the systematic processing of collecting, cleaning, transforming, analyzing and interpreting data to discover meaningful patterns, identify trends and support evidence-based decision making. 
-
+Types of DA
+	Descriptive Analytics
+	Diagnostic Analytics
+	Predictive Analytics
+	Prescriptive Analytics
+Common Workflow
+	Planning
+	Integration
+	Cleaning and Transformation
+	Analysis
+	Visualization
+	Reporting and Monitoring
 Data Analytics Framework?
-  Identify problem
-  Define Success
-  Collect & Prepare the Data
-  Analyze and Profile the Data
-  Communicate Findings 
-  Advocate Action
-
-Important of Data Analytics framework?
+  1. Identify problem
+  2. Define Success/Objective 
+  3. Collect & Prepare the Data
+  4. Profile and Clean the Data
+  5. Analyze or Interpret the Data  
+  6. Communicate Findings 
+  7. Advocate Action
+What is Analytical Thinking?
   - To transform data into insight and action, you need to think like an analyst. 
   - Analytical thinking means identifying the problem, setting clear expectations, collecting and analyzing the information you need, and leveraging insights and findings to help influence decisions.
+
+Roles in the World of DATA?
+	Business Intilligence
+	Data Analytics
+	Data Engineering	
+	Data Science
+	Machine Learning
+		
